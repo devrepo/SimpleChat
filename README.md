@@ -2,6 +2,8 @@ This repository is meant to showcase how to use Flutter with Cloud Firestore and
 
 The default code works great with a Firebase configured app for Cloud Firestore. It uses the Firestore as a real time database.
 
+Although, the repo also contains the Firebase Functions code to be used as HTTP Server but to show case Real Time chat, it was not used.
+
 ### Features:
 
 - [x] Firebase Auth to show you how to login using phone number and OTP.
